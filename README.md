@@ -1,4 +1,4 @@
-# Seleksi GAIB - Bonus - NLP
+# Seleksi GAIB - Bonus - Hate Speech
 Made by: Michael Jonathan Halim - 13521124
 
 ## How to Run
